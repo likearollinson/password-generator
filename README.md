@@ -1,10 +1,8 @@
 # 03 JavaScript: Password Generator
 
-## Your Task
+## Description
 
-This week’s homework requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
-
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
+This password generator takes user inputs from javascript prompts to create a random password. The criteria that the user chooses for this password include the length of the password which is between 8 and 128 characters, whether or not the password contains lowercase characters, uppercase characters, numerical characters, and special characters. The user will click a button labeled "Generate Password" that will begin the prompts.
 
 ## User Story
 
