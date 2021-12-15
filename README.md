@@ -6,4 +6,4 @@ This password generator takes user inputs from javascript prompts to create a ra
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# unc-hw-3-password-generator
+
